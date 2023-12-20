@@ -1,0 +1,23 @@
+{
+  "name": "chatbotfit",
+  "version": "1.0.0",
+  "description": "Bot for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gicsaud/chatBotTelegram.git"
+  },
+  "author": "Giovanna Saud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gicsaud/chatBotTelegram/issues"
+  },
+  "homepage": "https://github.com/gicsaud/chatBotTelegram#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
